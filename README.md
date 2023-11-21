@@ -24,4 +24,4 @@ In OPEN_ME.ipynb you can see the Dice Score for 512 images and several predicted
 
 ## Model architecture
 
-It ois a Unet with 6 levels in encoder and decoder. The loss function = dice_loss + α * binary_crossentropy
+It is a Unet with 6 levels in encoder and decoder. The loss function = dice_loss + α * binary_crossentropy
