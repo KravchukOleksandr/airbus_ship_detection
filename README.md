@@ -10,6 +10,8 @@ In OPEN_ME.ipynb or in segmentation_masks folder you can see how model performs 
 
 For example, detection of a ship among clouds.
 ![Ship and clouds](segmentation_masks/img4.png)
+![Ship and clouds](segmentation_masks/img7.png)
+![Ship and clouds](segmentation_masks/img8.png)
 
 ## Model architecture
 
