@@ -34,8 +34,8 @@ The classic Unet architecture was used to solve the task of segmentation ships. 
 3) Open predict.py
 4) In main function move to "Enter your values here" section.
 5) Change all file paths to your own. Here is the discription of all the files' pathes:
- - save_weights_path is a path to folder with the weights. Model weights' name is "my_model", so put it in the end of the path.
+ - save_weights_path is a path to the weights. Model weights' name is "my_model", so put it in the end of the path.
  - to_predict_data_path is a path to data you want to predict.
  - save_results_path is a psth to the folder, where you want to save the results. Could be None if you don't want to save them.
- - show_results is a bool variavle, which indicates whether to show the result. It shows original image and binary mask in the same picture.
+ - show_results is a bool variable, which indicates whether to show the result. It shows original image and binary mask in the same picture.
 5) Run the program 
