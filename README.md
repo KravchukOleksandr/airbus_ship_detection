@@ -31,8 +31,9 @@ The classic Unet architecture was used to solve the task of segmentation ships. 
 
 1) Download all archives from model_weights folder, and unarchive the ALL AT ONCE
 2) Download train_model.py, predict.py from source and put them into the same folder
-3) In main function move to "Enter your values here" section.
-4) Change all file paths to your own. Here is the discription of all the files' pathes:
+3) Open predict.py
+4) In main function move to "Enter your values here" section.
+5) Change all file paths to your own. Here is the discription of all the files' pathes:
  - save_weights_path is a path to folder with the weights. Model weights' name is "my_model", so put it in the end of the path.
  - to_predict_data_path is a path to data you want to predict.
  - save_results_path is a psth to the folder, where you want to save the results. Could be None if you don't want to save them.
