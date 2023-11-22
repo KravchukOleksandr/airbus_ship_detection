@@ -3,7 +3,11 @@ Detecting ships in satellite's photos
 
 ## Model performance
 
-In OPEN_ME.ipynb you can see the Dice Score for 512 images and several predicted binary masks in diffrent situations (big and small ships, with and without clouds, near land and in the open sea).
+FULL VERSION IN OPEN_ME.ipynb !!!
+
+The average Dice Score for this model equals to 0.701, although, only 2% of dataset was used.  
+Here you can see how model performs in complex and unusual situations
+
 
 ## Files' description
 
